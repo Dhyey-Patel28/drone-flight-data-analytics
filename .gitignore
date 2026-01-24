@@ -16,3 +16,4 @@ metastore_db/
 checkpoint/
 aggregated_telemetry/
 results/
+data/logs/
