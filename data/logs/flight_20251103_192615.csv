@@ -1,0 +1,2 @@
+ts_iso,elapsed_s,state,battery_percent,height_cm,bottom_range_cm,front_range_cm,flow_vx_cms,flow_vy_cms,speed_cms,angle_roll_deg,angle_pitch_deg,angle_yaw_deg,rel_x,rel_y,rel_z,accel_x,accel_y,accel_z,color_front,color_back,temp_c
+2025-11-03T19:26:16-05:00,0.0,ModeFlight.Ready,67,0.0,0.0,0.0,0.0,50400.0,50400.0,0,0,3,5.358,-7.627,2.087,0,0,98,Unknown,Unknown,0

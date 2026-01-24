@@ -1,0 +1,5 @@
+﻿pandas
+matplotlib
+kafka-python
+pyspark
+codrone-edu

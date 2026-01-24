@@ -1,0 +1,7 @@
+Altitude / Height
+Optical Flow
+Orientation (Roll / Pitch / Yaw)
+Accelerometer
+Front Distance Sensor
+Bottom Distance Sensor
+Battery Level
