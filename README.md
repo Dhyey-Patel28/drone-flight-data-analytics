@@ -70,7 +70,3 @@ Create topic:
 ## Demo (no drone)
 Replay sample logs into Kafka:
 `python .\scripts\replay_logs_to_kafka.py --log-dir .\data\logs --rate-hz 2`
-
-## Results (sample)
-![Height vs Time](milestone-2/height-vs-time.png)
-![Battery vs Time](milestone-2/battery-vs-time.png)
